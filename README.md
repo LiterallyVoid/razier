@@ -21,7 +21,7 @@ Controls
 
 ## Credits
 
-Credits should be in text files packaged alongside data.
+Credits are in data/all.txt.
 
 ## License
 
