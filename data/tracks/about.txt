@@ -1,5 +1,0 @@
-
-Files: tracks/terran*
-License: CC-BY-SA 4.0
-Author: KaadmY
-Link: http://opengameart.org/users/kaadmy

@@ -1,5 +1,0 @@
-
-Files: font.ttf
-Name: DejaVu Sans Book
-License: Various, http://www.dejavu-fonts.org/wiki/License
-Author: Various, http://www.dejavu-fonts.org

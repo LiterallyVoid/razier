@@ -1,5 +1,0 @@
-
-Files: interface/*
-License: CC0
-Author: Void7
-Link:

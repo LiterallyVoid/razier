@@ -1,5 +1,0 @@
-
-Files: music/menu, music/music.ogg, music/victory.ogg
-License: CC-BY-SA 4.0
-Author: neocrey
-Link: http://opengameart.org/users/neocrey
