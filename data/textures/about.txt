@@ -1,0 +1,11 @@
+
+Files: textures/particle.*
+License: CC0
+Author: Void7
+Link:
+
+Files: textures/track_set1.*
+License: CC-BY-SA 4.0
+Author: PixelMannen, KaadmY
+Sources: http://opengameart.org/content/tree-different-seasons (PixelMannen)
+Link: http://opengameart.org/users/pixelmannen, http://opengameart.org/users/kaadmy
