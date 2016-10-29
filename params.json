@@ -1,6 +1,6 @@
 {
   "name": "Razier",
   "tagline": "Fast-paced and quite possibly glitched racing game.",
-  "body": "\r\n# Razier\r\n\r\nVersion 0.1.0\r\n\r\n_Arcade fast paced hover racing game._\r\n\r\nBy **Void7** and **KaadmY**\r\n\r\n## Help\r\n\r\nControls\r\n\r\n- **W** key to accelerate\r\n\r\n- **S** key to brake\r\n\r\n- **A** and **D** keys to turn\r\n\r\n## Credits\r\n\r\nCredits should be in text files packaged alongside data.\r\n\r\n## License\r\n\r\nData should all be under either CC-BY-SA 4.0 or CC0, except data/font.ttf.\r\n\r\nSource code is MIT licensed, except for the stb/ subdirectory, which is\r\npublic domain (or the equivalent where not possible).\r\n\r\nSee file _LICENSE.md_ for more information.",
+  "body": "\r\n# Razier\r\n\r\nVersion 0.1.0\r\n\r\n_Arcade fast paced hover racing game._\r\n\r\nBy **LiterallyVoid** and **KaadmY**\r\n\r\n## Help\r\n\r\nControls\r\n\r\n- **W** key to accelerate\r\n\r\n- **S** key to brake\r\n\r\n- **A** and **D** keys to turn\r\n\r\n## Credits\r\n\r\nCredits are in data/all.txt.\r\n\r\n## License\r\n\r\nData should all be under either CC-BY-SA 4.0 or CC0, except data/font.ttf.\r\n\r\nSource code is MIT licensed, except for the stb/ subdirectory, which is\r\npublic domain (or the equivalent where not possible).\r\n\r\nSee file _LICENSE.md_ for more information.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
