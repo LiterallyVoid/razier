@@ -3,7 +3,7 @@
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2016  Void7, KaadmY
+Copyright (c) 2016  LiterallyVoid, KaadmY
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

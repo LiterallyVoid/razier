@@ -3,7 +3,7 @@ from bpy.props import *
 
 bl_info = {
     "name": "Rac3r track (.trk)",
-    "author": "Void7",
+    "author": "LiterallyVoid",
     "blender": (2, 7, 5),
     "location": "File > Export > Rac3r track (.trk)",
     "description": "DO NOT USE",

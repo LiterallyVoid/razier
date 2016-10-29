@@ -7,7 +7,7 @@ Version 0.1.0
 
 _Arcade fast paced hover racing game._
 
-By **Void7** and **KaadmY**
+By **LiterallyVoid** and **KaadmY**
 
 ## Help
 

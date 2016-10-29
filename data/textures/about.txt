@@ -1,7 +1,7 @@
 
 Files: textures/particle.*
 License: CC0
-Author: Void7
+Author: LiterallyVoid
 Link:
 
 Files: textures/track_set1.*

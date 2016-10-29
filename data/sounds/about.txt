@@ -2,7 +2,7 @@
 Files: sounds/engine.ogg
 License: CC-BY-SA 4.0
 Author: qubodop
-Modified by: Void7
+Modified by: LiterallyVoid
 License of modifications: CC0
 Sources: http://opengameart.org/content/toy-car-motor-loop (qubodop)
 Link: http://opengameart.org/users/qubodup

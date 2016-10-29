@@ -6,5 +6,5 @@ Link: http://opengameart.org/users/kaadmy
 
 Files: racer/shadow.*
 License: CC0
-Author: Void7
+Author: LiterallyVoid
 Link:

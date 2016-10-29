@@ -6,7 +6,7 @@ Link: http://opengameart.org/users/kaadmy
 
 Files: textures/particle.*
 License: CC0
-Author: Void7
+Author: LiterallyVoid
 Link:
 
 Files: textures/track_set1.*
@@ -28,7 +28,7 @@ Author: Various, http://www.dejavu-fonts.org
 Files: sounds/engine.ogg
 License: CC-BY-SA 4.0
 Author: qubodop
-Modified by: Void7
+Modified by: LiterallyVoid
 License of modifications: CC0
 Sources: http://opengameart.org/content/toy-car-motor-loop (qubodop)
 Link: http://opengameart.org/users/qubodup
@@ -40,7 +40,7 @@ Link: http://opengameart.org/users/kaadmy
 
 Files: interface/*
 License: CC0
-Author: Void7
+Author: LiterallyVoid
 Link:
 
 Files: racer/racer.*, racer/skin_*
@@ -50,5 +50,5 @@ Link: http://opengameart.org/users/kaadmy
 
 Files: racer/shadow.*
 License: CC0
-Author: Void7
+Author: LiterallyVoid
 Link:
